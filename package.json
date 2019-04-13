@@ -1,0 +1,15 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"gh-pages -d dist"
+  },
+  "author": "Shahriar Kabir",
+  "license": "MIT",
+  "homepage": "https://bdshahriar.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
